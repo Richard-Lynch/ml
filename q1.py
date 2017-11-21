@@ -1,5 +1,4 @@
 #!/usr/local/bin/python3
-# pred
 # preds = O^T * X
   preds = X.dot(theta)
   print ("preds:", preds)
